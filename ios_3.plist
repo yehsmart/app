@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.yehsmart.com/version/download/download.do?fileName=%2Fios%2F2017%2F01%2F19%2Fbc973857ff934aed800c907345c12ae9.ipa</string>
+					<string>http://www.yehsmart.com/version/download/download.do?fileName=%2Fios%2F2017%2F01%2F19%2F0d01580917f640378e89ba47d95ab0f9.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.yehsmart.com/version/download/download.do?fileName=%2Fios%2F2017%2F01%2F19%2Fc863d5d6d31f4a7fbf15fb3f8b8b7383.png</string>
+					<string>http://www.yehsmart.com/version/download/download.do?fileName=%2Fios%2F2017%2F01%2F19%2F9ad17f035ebd4ebebc1053c6140a261b.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.yehsmart.com/version/download/download.do?fileName=%2Fios%2F2017%2F01%2F19%2F8f244f076cb44203996f704a2f418b66.png</string>
+					<string>http://www.yehsmart.com/version/download/download.do?fileName=%2Fios%2F2017%2F01%2F19%2F19ebdb2074b5421490b13eac74300a2f.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SmartApp</string>
+				<string>SmartHome-App</string>
 			</dict>
 		</dict>
 	</array>
