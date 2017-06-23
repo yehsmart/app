@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.yehsmart.com/version/download/download.do?fileName=http:%2F%2Futyehsmart.oss-cn-beijing.aliyuncs.com%2Fios%2F661e0e122f354c6499acd37f76cc07c3.ipa</string>
+					<string>http://www.yehsmart.com/version/download/download.do?fileName=http:%2F%2Futyehsmart.oss-cn-beijing.aliyuncs.com%2Fios%2Ffad527a74bca4e0b98a83c8762e0aae0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.yehsmart.com/version/download/download.do?fileName=http:%2F%2Futyehsmart.oss-cn-beijing.aliyuncs.com%2Fios%2F3d8f3c235469470e8d4f01ee44cf866c.png</string>
+					<string>http://www.yehsmart.com/version/download/download.do?fileName=http:%2F%2Futyehsmart.oss-cn-beijing.aliyuncs.com%2Fios%2Fe25324504f5a4cb9851c97699ed8cc76.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.yehsmart.com/version/download/download.do?fileName=http:%2F%2Futyehsmart.oss-cn-beijing.aliyuncs.com%2Fios%2F9fe69c1aaf0d4b0cb71ace2eadbe14f7.png</string>
+					<string>http://www.yehsmart.com/version/download/download.do?fileName=http:%2F%2Futyehsmart.oss-cn-beijing.aliyuncs.com%2Fios%2F96392a9532084754971910a1315f19b5.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
