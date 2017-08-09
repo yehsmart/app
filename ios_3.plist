@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://utyehsmart.oss-cn-beijing.aliyuncs.com/ios/48d72d50f8974ef2b28d60de057b6033.ipa</string>
+					<string>http://utyehsmart.oss-cn-beijing.aliyuncs.com/ios/9bb3a0c344af47729b1f12f2a859f531.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://utyehsmart.oss-cn-beijing.aliyuncs.com/ios/2104d1b4353c4760ae740a5723b834a1.png</string>
+					<string>http://utyehsmart.oss-cn-beijing.aliyuncs.com/ios/e305fef3cbf64bff84746c6aa376c755.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://utyehsmart.oss-cn-beijing.aliyuncs.com/ios/38bc14c3cb3e428bb17b839e58a939c6.png</string>
+					<string>http://utyehsmart.oss-cn-beijing.aliyuncs.com/ios/58e26f55a61b484b87900115d3b16165.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
