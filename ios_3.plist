@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.yehsmart.com/version/download/download.do?fileName=http:%2F%2Futsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com%2Fios%2F3ffe89e71d9d4889aca233a887f787d2.ipa</string>
+					<string>http://www.yehsmart.com/version/download/download.do?fileName=http:%2F%2Futsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com%2Fios%2Ffe8dc96ca14649ff92e91a14381ce59b.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.yehsmart.com/version/download/download.do?fileName=http:%2F%2Futsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com%2Fios%2Fb7259918db414472b9ffcfc06430c2c0.png</string>
+					<string>http://www.yehsmart.com/version/download/download.do?fileName=http:%2F%2Futsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com%2Fios%2F7901f859aa484ff29931c9d50d69139d.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.yehsmart.com/version/download/download.do?fileName=http:%2F%2Futsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com%2Fios%2F706691b9df064664972b6269f714db00.png</string>
+					<string>http://www.yehsmart.com/version/download/download.do?fileName=http:%2F%2Futsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com%2Fios%2Fb1917b8694e54f48b5d00291c8e81e3b.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ut.utsmarthome</string>
 				<key>bundle-version</key>
-				<string>1.2</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
