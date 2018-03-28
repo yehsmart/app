@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/e0d3575b61894ec798b5be724450e3fb.ipa</string>
+					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/057efd77117f429285364db2c08d9b61.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/6114164446dd4127b8ff68fb94167cf1.png</string>
+					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/e1f102596efc40c5a1866b8dd5439219.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/5c3772fc341c4df494c104fd2df98973.png</string>
+					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/20bc7e2f3cd6451896bfb297f4eaeb57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>优特智能家居</string>
+				<string>UTSmartHome</string>
 			</dict>
 		</dict>
 	</array>
