@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/8867a6386f6545129f7feff07b101311.ipa</string>
+					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/3d0b6f430df34494909a84efb30ed962.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/c1eea35d8fd2406abf3c2eb9f2c502c3.png</string>
+					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/e2ecc315641f46d3a98fa62fe287d67d.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/b223d05b823e4cb48af982ae537274b8.png</string>
+					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/1b7905d0feb847e58c0cd669a10b576a.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ut.BluetoothTool</string>
+				<string>com.ut.utsmarthome</string>
 				<key>bundle-version</key>
-				<string>1</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>优特智能门锁</string>
+				<string>UTSmartHome</string>
 			</dict>
 		</dict>
 	</array>
