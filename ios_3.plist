@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-AppleDTD PLIST 1.0EN" "http:www.apple.comDTDsPropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items<key>
+    <key>items</key>
     <array>
 		<dict>
-			<key>assets<key>
+			<key>assets</key>
 			<array>
 				<dict>
-					<key>kind<key>
-					<string>software-package<string>
-					<key>url<key>
-					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/43af47d4da0048dbb0b80884d57712be.ipa<string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/5a844cc588f14a369997a68bf392f57f.ipa</string>
+				</dict>
 				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/f6dec19f0b014499915d1529bc5084cc.png</string>
+				</dict>
 				<dict>
-					<key>kind<key>
-					<string>full-size-image<string>
-					<key>needs-shine<key>
-					<true>
-					<key>url<key>
-					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/f6dec19f0b014499915d1529bc5084cc.png<string>
-				<dict>
-				<dict>
-					<key>kind<key>
-					<string>display-image<string>
-					<key>needs-shine<key>
-					<true>
-					<key>url<key>
-					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/1eed753137434da6a9549fc8be61aa87.png<string>
-				<dict>
-			<array>
-			<key>metadata<key>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/1eed753137434da6a9549fc8be61aa87.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier<key>
-				<string>com.ut.utsmarthome<string>
-				<key>bundle-version<key>
-				<string>1.3.1<string>
-				<key>kind<key>
-				<string>software<string>
-				<key>title<key>
-				<string>UT-SmartHome-App<string>
-			<dict>
-		<dict>
-	<array>
-<dict>
-<plist>
+				<key>bundle-identifier</key>
+				<string>com.ut.BluetoothTool</string>
+				<key>bundle-version</key>
+				<string>1.3.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>UT-SmartHome-App</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
