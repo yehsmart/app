@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-AppleDTD PLIST 1.0EN" "http:www.apple.comDTDsPropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
+    <key>items<key>
     <array>
 		<dict>
-			<key>assets</key>
+			<key>assets<key>
 			<array>
 				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/8867a6386f6545129f7feff07b101311.ipa</string>
-				</dict>
+					<key>kind<key>
+					<string>software-package<string>
+					<key>url<key>
+					<string>http:%2F%2Futsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com%2Fios%2F43af47d4da0048dbb0b80884d57712be.ipa<string>
 				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/c1eea35d8fd2406abf3c2eb9f2c502c3.png</string>
-				</dict>
 				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/ios/b223d05b823e4cb48af982ae537274b8.png</string>
-				</dict>
-			</array>
-			<key>metadata</key>
+					<key>kind<key>
+					<string>full-size-image<string>
+					<key>needs-shine<key>
+					<true>
+					<key>url<key>
+					<string>http:%2F%2Futsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com%2Fios%2Ff6dec19f0b014499915d1529bc5084cc.png<string>
+				<dict>
+				<dict>
+					<key>kind<key>
+					<string>display-image<string>
+					<key>needs-shine<key>
+					<true>
+					<key>url<key>
+					<string>http:%2F%2Futsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com%2Fios%2F1eed753137434da6a9549fc8be61aa87.png<string>
+				<dict>
+			<array>
+			<key>metadata<key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.ut.BluetoothTool</string>
-				<key>bundle-version</key>
-				<string>1</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>优特智能门锁</string>
-			</dict>
-		</dict>
-	</array>
-</dict>
-</plist>
+				<key>bundle-identifier<key>
+				<string>com.ut.utsmarthome<string>
+				<key>bundle-version<key>
+				<string>1.3.1<string>
+				<key>kind<key>
+				<string>software<string>
+				<key>title<key>
+				<string>UT-SmartHome-App<string>
+			<dict>
+		<dict>
+	<array>
+<dict>
+<plist>
